@@ -11,11 +11,13 @@
 
 <h2>Scope of the projects</h2>
 <p>There are five worksheets available for an analysis:</p>
-- branches (Branch_ID, Branch_Name, Plan_Revenue_Month, Plan_New_Students)
-- managers (Manager_ID, Branch_ID, Name, Plan_Sales)
-- leads from CRM (Lead_ID, Branch_ID, Manager_ID, Status, Course_Level, Payment_Amount, Month)
-- students retention (Student_ID, Branch_ID, Start_Month, Still_Studying, Months_Studied)
-- teachers (Teacher_ID, Branch_ID, Groups, Avg_Student_Score, Retention_Rate)
+<ul>
+  <li>branches (Branch_ID, Branch_Name, Plan_Revenue_Month, Plan_New_Students)</li>
+  <li>managers (Manager_ID, Branch_ID, Name, Plan_Sales)</li>
+  <li>leads from CRM (Lead_ID, Branch_ID, Manager_ID, Status, Course_Level, Payment_Amount, Month)</li>
+  <li>students retention (Student_ID, Branch_ID, Start_Month, Still_Studying, Months_Studied)</li>
+  <li>teachers (Teacher_ID, Branch_ID, Groups, Avg_Student_Score, Retention_Rate)</li>
+</ul>
 
 <h2>Calculations and Formulas</h2>
 
@@ -41,5 +43,38 @@
 
 </ol>
 
-<p>The Result:</p>
+<p><b>The Result:</b></p>
 <img width="872" height="113" alt="man_tbl" src="https://github.com/user-attachments/assets/35e9cea1-2c2d-4c51-b53d-021c3d4df2f1" />
+
+<h3>Branch Performance Analysis</h3>
+<ol>
+  <li>Branch revenue:</li>
+  <img width="602" height="35" alt="B_revenue" src="https://github.com/user-attachments/assets/e49e1870-e302-4bdd-975a-642444bcf325" />
+
+  <li>New students:</li>
+  <img width="603" height="35" alt="B_new_st" src="https://github.com/user-attachments/assets/0de788ae-2134-4475-9417-5bf905737896" />
+
+  <li>Revenue plan execution:</li>
+  <img width="604" height="37" alt="B_rev_pl_ex" src="https://github.com/user-attachments/assets/c63b26b3-3ef0-4576-9f26-b8b9173ff48e" />
+
+  <li>New students plan execution:</li>
+  <img width="601" height="37" alt="B_new_st_pl_ex" src="https://github.com/user-attachments/assets/c7a3a46f-60ab-4174-91ad-0225baf611cc" />
+
+  <li>Average check:</li>
+  <img width="602" height="36" alt="B_avg_check" src="https://github.com/user-attachments/assets/7d156f81-1045-4a8c-a841-e7572f86a136" />
+
+  <li>Retention by branch:</li>
+  <img width="1007" height="36" alt="B_retention" src="https://github.com/user-attachments/assets/e8d590ac-b63d-4a6a-910a-5d855b0516f4" />
+
+</ol>
+
+<p><b>The Result:</b></p>
+<img width="1295" height="103" alt="Branch_tbl" src="https://github.com/user-attachments/assets/059c1e91-0dca-4894-b103-3e41c946638e" />
+
+<h3>Teachers' KPIs Analysis</h3>
+<p>For KPI calculations was used weighted model with formula: <i>Score = w1X1 + w2X2 + w3X3</i>, where "X" stands for an indicator, "w" stands for a weight and the sum of weights equals 100%.</p>
+<img width="604" height="32" alt="Teachers_KPI" src="https://github.com/user-attachments/assets/7b10eb58-21a9-4f95-b197-b50a6360ed01" />
+
+
+<p><b>The Result:</b></p>
+<img width="624" height="185" alt="Teachers_tbl" src="https://github.com/user-attachments/assets/d5b9c256-51af-4024-810e-fe7ff5579e59" />

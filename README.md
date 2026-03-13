@@ -78,3 +78,25 @@
 
 <p><b>The Result:</b></p>
 <img width="624" height="185" alt="Teachers_tbl" src="https://github.com/user-attachments/assets/d5b9c256-51af-4024-810e-fe7ff5579e59" />
+
+Overall Students Retention Rate is 77%, accordingly to the following calculation:
+<img width="601" height="37" alt="Overall students retention formula" src="https://github.com/user-attachments/assets/ae73223c-c73f-49f9-be9f-eb4f6f7409c6" />
+
+<h2>Creating Pivot Tables and the Final Dashboard</h2>
+<img width="835" height="254" alt="Pivot Tables" src="https://github.com/user-attachments/assets/35838c10-3d2d-41e6-91ab-c34f5f1367ac" />
+
+<img width="845" height="388" alt="Final Dashboard" src="https://github.com/user-attachments/assets/24c9c181-1ccb-4e2b-82af-02408ced7400" />
+
+<h2>Data Analysis Results & Recommendations</h2>
+
+<h3>Overview</h3>
+<b>Branches:</b>
+Jalal-Abad shows the highest KPI fulfillment, while the Bishkek Central branch is currently underperforming.
+<b>Courses:</b>
+The primary revenue drivers are Beginner, Elementary, and Pre-Intermediate levels. Revenue from advanced courses remains relatively low; a detailed customer retention analysis is recommended for these segments.
+<b>Sales Performance:</b>
+Top performers by sales-to-target ratio are Ruslan (156%), Alina (123%), and Diana (95%).
+Action Plan: Analyze the performance of Timur (77%) and Aizada (39%) to identify bottlenecks. Implement targeted training programs and develop an incentive scheme for high-performing managers.
+<b>Conversion:</b>
+The highest conversion rates were achieved by Timur (53%) and Alina (43%), while Aizada (33%) and Diana (35%) showed the lowest results.
+

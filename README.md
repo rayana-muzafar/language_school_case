@@ -233,7 +233,6 @@ Branch B2: Shows a systemic retention failure specifically in high-capacity grou
   <li>Financial Risk: Underperforming instructors (high churn/attrition) represent a direct threat to recurring revenue.</li>
   <li>Workload Impact: Data suggests a correlation between workload distribution and the ability to maintain high retention standards.</li>
 </ul>
-
 <b>Strategic Recommendations:</b>
 <ul>
   <li>Instructor Rating System: Implement a transparent, data-driven Faculty Performance Index to standardize quality.</li>

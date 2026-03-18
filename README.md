@@ -167,3 +167,80 @@ Consumer Insights: Perform targeted market research to identify the unique motiv
   <li>Upsell Strategy: Develop and implement a robust Upsell framework to increase the lifetime value (LTV) of current students.</li>
   <li>Retention KPI: Introduce Student Progression KPIs to measure and incentivize the transition of learners to higher levels.</li>
 </ul>
+
+<h3>Sales Performance & Conversion Analysis</h3>
+
+<b>Top Performers & Goal Setting:</b>
+Ruslan and Alina demonstrate the highest target achievement. However, their current sales quotas are set lower than those of their peers.
+Recommendation: Consider increasing their performance targets (KPIs) to align with their potential, while implementing a formal recognition and incentive program for their outstanding results.
+
+<b>Underperformance & Bottleneck Identification:</b>
+Aizada and Timur show the lowest sales-to-target ratios.
+Aizada: It is recommended to recalibrate her KPI thresholds, conduct a performance audit, and provide targeted sales training to improve her core metrics.
+Timur: Despite missing sales targets, Timur achieved the highest conversion rate (53%). This paradox suggests high professional competence but a potential shortage of qualified leads.
+Action Plan: Audit the volume and quality of leads assigned to Timur; consider increasing his lead flow to leverage his high closing efficiency.
+
+<b>Conversion Optimization:</b>
+Strategic Training: Conduct a deep-dive analysis of the sales processes for Aizada, Diana, and Ruslan. Implement a specialized training program focused on improving conversion techniques across these specific portfolios.
+
+
+<h3>Key Insights & Recommendations: Sales Efficiency</h3>
+
+<b>Core Facts:</b>
+<ul>
+  <li>KPI Disconnect: Managers achieve an average of 98% of their individual targets, yet branch-level goals remain unmet.</li>
+  <li>High Efficiency/Low Volume: Timur shows a high conversion rate (53%) but only 77% target achievement.</li>
+  <li>Critical Underperformance: Aizada demonstrates both low conversion (33%) and low target fulfillment (39%).</li>
+</ul>
+<b>Key Findings:</b>
+<ul>
+  <li>Inconsistent Goal Setting: Individual sales KPIs are not synchronized with branch-level strategic objectives.</li>
+  <li>Lead Distribution Bias: Data suggests an uneven distribution of leads across the sales team.</li>
+  <li>Underutilized Potential: Current quotas are established without considering individual historical performance and potential.</li>
+</ul>
+<b>Strategic Recommendations:</b>
+<ul>
+  <li>Implement Weighted KPIs: Transition to a more sophisticated model including Conversion Rate + Revenue + Lead Volume to ensure a balanced performance evaluation.</li>
+  <li>Lead Distribution Audit: Conduct a technical audit of the CRM lead-routing logic to ensure equity and maximize ROI.</li>
+  <li>Quota Optimization: Increase targets for high-performers (Ruslan and Alina) to match their actual capacity.</li>
+  <li>Performance Recovery: Provide specialized sales training for Aizada to address conversion bottlenecks.</li>
+</ul>
+
+<h3>Teachers Performance & Student Retention</h3>
+
+<b>Retention Benchmarking:</b>
+The company-wide average Retention Rate (RR) stands at 77%, with significant variance among individual instructors, ranging from 67% to 92%
+
+<b>Top vs. Bottom Performance:</b>
+Top Performer (T2): Achieved the highest KPI score (73.8) while maintaining a maximum workload of 9 groups. T2 demonstrates an exceptional 92% Retention Rate alongside high student satisfaction scores.
+Underperformer (T8): Despite a full workload (9 groups), T8 shows the lowest Retention (67%) and KPI (61.0), indicating a critical student churn issue.
+
+<b>Teaching Style & Student Perception:</b>
+Instructor T5: High Retention (88%) but low student satisfaction scores (78). This suggests a perceived lack of academic rigor or an overly lenient teaching style.
+Instructor T4: High satisfaction scores (94%) but lower Retention (73%). This indicates a high-pressure environment or excessive strictness, leading to student attrition despite the perceived quality.
+
+<b>Branch-Level Insights:</b>
+Branch B1: Displays high educational inconsistency, housing both the strongest (T2) and one of the lowest-rated (T5) instructors.
+Branch B2: Shows a systemic retention failure specifically in high-capacity groups (linked to T8’s performance), requiring urgent managerial intervention.
+
+<h3>Key Insights & Recommendations: Teacher Performance</h3>
+
+<b>Core Facts:</b>
+<ul>
+  <li>Retention Benchmark: The average Retention Rate (RR) is 77%, with a significant variance between 67% and 92% across the faculty.</li>
+  <li>Performance Extremes: Instructor T2 leads across all key metrics, while Instructor T8 shows critically low retention despite a high workload.</li>
+</ul>
+<b>Key Findings:</b>
+<ul>
+  <li>Quality Inconsistency: Significant disparity in teaching standards across branches, creating a fragmented student experience.</li>
+  <li>Financial Risk: Underperforming instructors (high churn/attrition) represent a direct threat to recurring revenue.</li>
+  <li>Workload Impact: Data suggests a correlation between workload distribution and the ability to maintain high retention standards.</li>
+</ul>
+
+<b>Strategic Recommendations:</b>
+<ul>
+  <li>Instructor Rating System: Implement a transparent, data-driven Faculty Performance Index to standardize quality.</li>
+  <li>Load Balancing: Immediately redistribute groups from Instructor T8 to prevent further student churn.</li>
+  <li>Methodological Audit: Conduct a comprehensive pedagogical review to align teaching styles with student expectations.</li>
+  <li>Instructional Balance: Develop guidelines to balance academic rigor and student engagement (addressing the "strictness vs. leniency" gap).</li>
+</ul>

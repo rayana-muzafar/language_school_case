@@ -106,6 +106,9 @@ The highest conversion rates were achieved by Timur (53%) and Alina (43%), while
 
 <h3>Branch Performance Analysis</h3>
 
+<img width="614" height="179" alt="s_branches" src="https://github.com/user-attachments/assets/57ba5cea-38f1-4ad2-beea-b0288b92c0a2" />
+
+
 <b>Revenue & Student Acquisition:</b>
 Bishkek Central branch is underperforming across key metrics, achieving only 39% of the revenue target and 35% of the new student acquisition goal.
 Jalal-Abad leads the performance ranking, reaching 69% of its revenue target and 54% in student acquisition.
@@ -136,6 +139,9 @@ Regional branches consistently outperform the capital. This trend may indicate m
 </ul>
 
 <h3>Courses & Revenue Analysis</h3>
+
+<img width="342" height="204" alt="s_courses" src="https://github.com/user-attachments/assets/2ebaa7f4-4567-438f-933c-1311c521a44d" />
+
 
 <b>Top Revenue Drivers:</b>
 Beginner, Elementary, and Pre-Intermediate levels generate the highest revenue. This indicates high conversion rates and strong initial interest from new language learners (entry-level segment).
@@ -168,6 +174,9 @@ Consumer Insights: Perform targeted market research to identify the unique motiv
 </ul>
 
 <h3>Sales Performance & Conversion Analysis</h3>
+
+<img width="594" height="178" alt="s_sales" src="https://github.com/user-attachments/assets/7f2fb774-37a0-42e1-a492-844bbc64a481" />
+
 
 <b>Top Performers & Goal Setting:</b>
 Ruslan and Alina demonstrate the highest sales-plan achievement. However, their current sales quotas are set lower than those of their peers.
@@ -205,6 +214,9 @@ Strategic Training: Conduct a deep-dive analysis of the sales processes for Aiza
 </ul>
 
 <h3>Teachers Performance & Student Retention</h3>
+
+<img width="624" height="185" alt="Teachers_tbl" src="https://github.com/user-attachments/assets/ca7cbddf-082f-4e6f-92dc-b45a9c45aa35" />
+
 
 <b>Retention Benchmarking:</b>
 The company-wide average Retention Rate (RR) stands at 77%, with significant variance among teachers, ranging from 67% to 92%

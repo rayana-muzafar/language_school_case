@@ -1,7 +1,7 @@
 <h1>Operations Analysis for a Language School</h1>
 
 <h2>Business case</h2>
-<p>The company consists of 4 branches in Kyrgyzstan, 2 branches in the capital city and two more in regions. They faced a problem with students retention: for a language level A2 there are 47 groups and for a level C1 - only 5 groups. The head of the company wants to underastand the efficiency of branches, sales-managers and teachers. Key questions are:</p>
+<p>The company consists of 4 branches in Kyrgyzstan, 2 branches in the capital city and two more in regions. They faced a problem with students retention: for a language level A2 there are 47 groups and for a level C1 - only 5 groups. The head of the company wants to underastand the efficiency of branches, sales-managers and teachers. The whole project was made with Excel Sheets. Key questions are:</p>
 <ol>
   <li>Why are some branches growing while others lagging?</li>
   <li>Who fails to adhere to the plan?</li>
@@ -10,7 +10,7 @@
 </ol>
 
 <h2>Scope of the projects</h2>
-<p>There are five worksheets available for an analysis:</p>
+<p>There are five Excel worksheets available for an analysis:</p>
 <ul>
   <li>branches (Branch_ID, Branch_Name, Plan_Revenue_Month, Plan_New_Students)</li>
   <li>managers (Manager_ID, Branch_ID, Name, Plan_Sales)</li>
